@@ -1,0 +1,13 @@
+{
+  "modelVersion": "6.0.2",
+  "name": "expensecalendar1",
+  "version": "1.0.0",
+  "description": "消费日历应用",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@ohos/hvigor-ohos-app": "4.0.2",
+    "@ohos/hvigor": "4.0.2"
+  }
+}

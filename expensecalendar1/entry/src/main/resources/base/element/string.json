@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "entry module description"
+    },
+    {
+      "name": "ability_desc",
+      "value": "entry ability description"
+    },
+    {
+      "name": "ability_label",
+      "value": "消费日历"
+    },
+    {
+      "name": "app_name",
+      "value": "消费日历"
+    }
+  ]
+}

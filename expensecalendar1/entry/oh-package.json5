@@ -1,0 +1,12 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "entry module",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@ohos/hvigor-ohos-module": "4.0.2",
+    "@ohos/hvigor": "4.0.2"
+  }
+}
