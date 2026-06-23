@@ -1,0 +1,10 @@
+{
+  "modelVersion": "6.0.2",
+  "name": "accountbook",
+  "version": "1.0.0",
+  "description": "A HarmonyOS account book app",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}
